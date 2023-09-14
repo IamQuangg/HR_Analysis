@@ -99,7 +99,8 @@ công việc không phải là yếu tố chính dẫn đến tỷ lệ rời b�
 Lương trung bình của Recruiter và Sales Representative thấp hơn so với các công việc khác. Đây có thể là lý do làm cho tỷ lệ rời bỏ công việc của 2 lĩnh vực này cao như vậy.
 
 
-Xem biểu đồ tổng quan tại đây: [Phạm Vinh Quang.pdf](https://github.com/IamQuangg/HR_Analysis/files/12611141/Ph.m.Vinh.Quang.pdf)
+Xem biểu đồ tổng quan tại đây: [HR Analytic Dashboard.pdf](https://github.com/IamQuangg/HR_Analysis/files/12611166/HR.Analytic.Dashboard.pdf)
+
 
 
 
